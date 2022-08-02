@@ -34,6 +34,8 @@ enum FUNDING {
     OXXO = 'oxxo',
     BOLETO = 'boleto',
     WECHATPAY = 'wechatpay',
-    MERCADOPAGO = 'mercadopago'
+    MERCADOPAGO = 'mercadopago',
+    GRABPAY = 'grabpay',
+    PAIDY = 'paidy'
 }
 ```
